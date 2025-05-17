@@ -280,15 +280,15 @@ function SectionFive() {
         WhatsApp: <strong>Click the button below</strong>
       </p>
       <p className="mb-6">
-        Visit: Shop J20 Joke Plaza bodija market Ibadan Oyo State 
+        Visit: Shop J20 Joke Plaza bodija market Ibadan Oyo State,Nigeria.
         <br/>
         Or
         <br/>
-        Visit: Shop 3, kara Junction, bodija market, Ibadan, Oyo State, Nigeria
+        Visit: Shop 3, kara Junction, bodija market, Ibadan, Oyo State, Nigeria.
         <br/>  
         Or
-        Visit: Shop 1 mission road, Igoli, Ogoja, Cross River, Nigeria
-      <br/>
+        <br/>
+        Visit: Shop 1 mission road, Igoli, Ogoja, Cross River, Nigeria.
       </p>
       <button className="bg-yellow-800 text-white px-6 py-3 rounded-xl hover:bg-blue-700 transition-all">
         <a
