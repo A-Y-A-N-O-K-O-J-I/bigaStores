@@ -10,9 +10,9 @@ function SectionOne() {
     >
       <div className="absolute inset-0 bg-black/50 pointer-events-none"></div>
       <div className="relative z-10 h-full flex flex-col justify-center items-center text-center slide-in px-4">
-        <h1 className="text-3xl md:text-6xl font-bold"> Get it. Use it. Enjoy it — the Cphilip way. </h1>
+        <h1 className="text-3xl md:text-6xl font-bold"> Get it. Use it. Enjoy it — the Cphilips way. </h1>
         <p className="text-white text-base text-lg md:px-10">
-          Your trusted destination in Ibadan for affordable Phones, accessories,  games,  electricals etc — all backed by friendly experts who care about your satisfaction as much as you do.
+         Your trusted destination for quality gadgets and appliances.  — all backed by friendly experts who care about your satisfaction as much as you do.
         </p>
         <div className="flex md:flex-row gap-5 slide-left">
           <a href="https://wa.me/2347069933822?text=Hello%2C%20I'm%20interested%20in%20your%20services%20and%20would%20like%20to%20book%20a%20call."
