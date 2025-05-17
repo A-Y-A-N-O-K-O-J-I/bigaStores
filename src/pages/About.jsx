@@ -274,18 +274,17 @@ function SectionFive() {
       <h2 className="text-3xl font-bold mb-6">Get in Touch</h2>
       <p className="mb-4 text-lg">Have questions or ready to get started?</p>
       <p className="mb-2">
-        Call: <strong>+234 903 654 1012</strong>
+        Call: <strong> +234 706 993 3822 </strong>
       </p>
       <p className="mb-2">
         WhatsApp: <strong>Click the button below</strong>
       </p>
       <p className="mb-6">
-        Visit: After Thirty thirty Kara junction, before MUSA Alapo shop, Bodija
-        Market, Shop 3 Main Street, Ibadan 200132, Oyo, Nigeria
+        Visit:  Joke Plaza, Ibadan, Oyo, Nigeria
       </p>
       <button className="bg-yellow-800 text-white px-6 py-3 rounded-xl hover:bg-blue-700 transition-all">
         <a
-          href="https://wa.me/2349036541012?text=Hello%2C%20I'm%20interested%20in%20your%20services%20and%20would%20like%20to%20book%20a%20call."
+          href="https://wa.me/2347069933822?text=Hello%2C%20I'm%20interested%20in%20your%20services%20and%20would%20like%20to%20book%20a%20call."
           target="_blank"
           rel="noopener noreferrer"
         >
