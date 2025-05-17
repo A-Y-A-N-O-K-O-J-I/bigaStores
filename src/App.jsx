@@ -3,7 +3,6 @@ import HomePage from "./pages/Home";
 import AboutUs from "./pages/About";
 import ContactUs from "./pages/Contact";
 import TechTips from "./pages/Tips";
-import FixForm from "./pages/fix";
 import SwapForm from "./pages/swap";
 import BuyForm from "./pages/buy";
 import SellForm from "./pages/sell";
