@@ -282,9 +282,9 @@ function SectionFive() {
       <p className="mb-6">
         Visit: Shop J20 Joke Plaza bodija market Ibadan Oyo State 
         Or
-        Visit: Shop 3, kara Junction, 
+        Visit: Shop 3, kara Junction, bodija market, Ibadan, Oyo State, Nigeria
         Or
-        Visit: Shop 1 mission road, Igoli, Ogoja (CRS)
+        Visit: Shop 1 mission road, Igoli, Ogoja, Cross River, Nigeria
       </p>
       <button className="bg-yellow-800 text-white px-6 py-3 rounded-xl hover:bg-blue-700 transition-all">
         <a
