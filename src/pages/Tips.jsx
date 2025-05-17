@@ -19,8 +19,9 @@ export default function AdviceTips() {
     <>
       <NavBar />
       <FirstSection title="Tips And Advice for your Devices" content="tips" />
+      <div className = "min-h-screen bg-yellow-100 justify-center items-center">
       <div className="flex min-h-screen flex-col space-y-5 items-center">
-        <h2 className="text-blue-500 text-xl">- Tech Tips -</h2>
+        <h2 className="text-yellow-500 text-xl">- Tech Tips -</h2>
         <div className="grid md:grid-cols-3 gap-6 px-3 grid-rows-1">
           {techTips.map((tips) => {
             // Convert the title to slug format for SEO-friendly URL
@@ -40,6 +41,7 @@ export default function AdviceTips() {
             );
           })}
         </div>
+      </div>
       </div>
       <Footer />
     </>

@@ -9,7 +9,7 @@ return(
       transition={{ duration: 0.6 }}
     >
 
-          <div className="absolute inset-0 bg-blue-800/85 pointer-events-none"></div>
+          <div className="absolute inset-0 bg-yellow-800/85 pointer-events-none"></div>
           <div className="relative z-10 h-full flex flex-col justify-center items-center text-center px-4">
             <h1 className="text-3xl md:text-6xl font-bold">{props.title}</h1>
             <h2 className="text-xl md:text-5xl font-semibold mt-5 text-black">{props.content}</h2>

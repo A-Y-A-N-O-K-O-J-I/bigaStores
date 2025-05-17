@@ -75,7 +75,7 @@ function SectionTwo() {
 
 function SectionThree() {
   return (
-    <section className="bg-white py-10 px-4 md:px-16 text-center" aria-label="Why people trust BigaStores">
+    <section className=" py-10 px-4 md:px-16 text-center" aria-label="Why people trust BigaStores">
       <h2 className="text-2xl md:text-3xl font-bold text-yellow-900 mb-6">Why People Trust BigaStores</h2>
       <div className="grid gap-6 md:grid-cols-3">
         {[

@@ -69,7 +69,7 @@ function SwapForm() {
   return (
     <>
       <NavBar />
-      <FirstSection title="Swap Your Phone To get a better One!!! -KingFix" content = "Swap"/>
+      <FirstSection title="Swap Your Phone To get a better One!!! -bigaStores" content = "Swap"/>
       
       <div className="flex justify-center items-center min-h-screen bg-yellow-100 px-4">
         <div className="bg-white shadow-2xl rounded-2xl p-8 max-w-lg w-full space-y-6">

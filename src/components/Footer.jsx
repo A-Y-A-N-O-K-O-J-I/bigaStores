@@ -31,9 +31,9 @@ const Footer = () => {
         <div>
           <h4 className="text-lg font-semibold mb-2">Contact</h4>
           <p className="text-sm">
-            WhatsApp: <a href="https://wa.me/2349036541012" className="underline">+2349036541012 </a>
+            WhatsApp: <a href="https://wa.me/2347069933822" className="underline">2347069933822 </a>
           </p>
-          <p className="text-sm">Email: support@bigastores.name.ng</p>
+          <p className="text-sm">Email: Philipschikeziee@gmail.com </p>
           <p className="text-sm mt-2">
             &copy; {new Date().getFullYear()} bigastores. All rights reserved.
           </p>

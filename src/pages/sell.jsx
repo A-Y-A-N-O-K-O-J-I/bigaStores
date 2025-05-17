@@ -69,7 +69,7 @@ function SellForm() {
   return (
     <>
       <NavBar />
-      <FirstSection title="You wanna sell Your Phone?? Bring am Come!!!! -KingFix" content = "Sell"/>
+      <FirstSection title="You wanna sell Your Phone?? Bring am Come!!!! -BigaStores" content = "Sell"/>
       
       <div className="flex justify-center items-center min-h-screen bg-yellow-100 px-4">
         <div className="bg-white shadow-2xl rounded-2xl p-8 max-w-lg w-full space-y-6">
@@ -170,7 +170,7 @@ function SellForm() {
 
             <button
               type="submit"
-              className="w-full bg-blue-900 text-white py-2 rounded-full hover:bg-blue-800 transition"
+              className="w-full bg-yellow-900 text-white py-2 rounded-full hover:bg-blue-800 transition"
             >
               Submit Request
             </button>
