@@ -16,7 +16,6 @@ export default function NavBar() {
   const servicesLinks = [
     { name: "Buy", href: "/buy" },
     { name: "Sell", href: "/sell" },
-    { name: "Fix", href: "/fix" },
     { name: "Swap", href: "/swap" },
   ];
 
@@ -93,7 +92,7 @@ export default function NavBar() {
 
           {/* Hamburger Button */}
           <div className="md:hidden">
-            <div className="rounded-full h-10 relative w-10 bg-yellow-600 shadow-md active:-scale-105">
+            <div className="rounded-full h-10 relative w-10 bg-yellow-600  shadow-md active:-scale-105">
               <button
                 onClick={toggleIsOpen}
                 className="text-white absolute bottom-2 left-2"
@@ -106,7 +105,7 @@ export default function NavBar() {
 
         {/* Mobile Navigation */}
         {isOpen && (
-          <div className= {`md:hidden bg-white px-4 pb-4 shadow ${isOpen ? 'slide-in' : 'slide-out'}`}>
+          <div className= {`md:hidden bg-white px-4 pb-4 shadow ${isOpen ? 'slide-down' : 'slide-up'}`}>
             <ul className="flex flex-col space-y-3">
               {navLinks.map((link) => (
                 <li key={link.name}>
