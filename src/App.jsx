@@ -17,7 +17,6 @@ export default function App() {
         <Route path="/about" element={<AboutUs />} />
         <Route path="/contact" element={<ContactUs />} />
         <Route path="/techtips" element={<TechTips />} />
-        <Route path="/fix" element={<FixForm />} />
         <Route path="/swap" element={<SwapForm />} />
         <Route path="/buy" element={<BuyForm />} />
         <Route path="/sell" element={<SellForm />} />
